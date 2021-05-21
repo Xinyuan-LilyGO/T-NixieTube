@@ -1,4 +1,4 @@
-<h1 align = "center">🌟LilyGO OLED🌟</h1>
+<h1 align = "center">🌟T-Nixie Tube🌟</h1>
   
 ## Quick start
 1. Copy  **lib/TFT_eSPI-master**  to the  **<C:\Users\Your User Name\Documents\Arduino\libraries>**  directory
