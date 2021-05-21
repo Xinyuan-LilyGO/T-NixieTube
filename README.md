@@ -21,9 +21,6 @@
 ![](Image/T-NixieTube_IO.jpg)
 
 ## Show
-
 ![](Image/T-NixieTubeA.jpg)
-
 ![](Image/T-NixieTubeB.jpg)
-
 ![](Image/T-NixieTubeC.jpg)
