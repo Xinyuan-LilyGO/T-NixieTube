@@ -17,10 +17,10 @@
 
 -------------------------  
 ## Pinout
-
 ![](Image/T-NixieTube_IO.jpg)
 
-## Show
+-------------------------  
+## Physical display
 ![](Image/T-NixieTubeA.jpg)
 ![](Image/T-NixieTubeB.jpg)
 ![](Image/T-NixieTubeC.jpg)
