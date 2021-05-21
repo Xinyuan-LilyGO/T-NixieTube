@@ -15,4 +15,4 @@
 
 -------------------------  
 ## Pinout
-![](image/T-NixieTube_IO.jpg)
+![](Image/T-NixieTube_IO.jpg)
